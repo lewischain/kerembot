@@ -16,12 +16,12 @@
     "discord",
     "bot"
   ],
-  "author": "Roman <kizilkartalhd@gmail.com>",
+  "author": "lewischain <baba@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/romanizm/kerembot/issues"
+    "url": "https://github.com/lewischain/kerembot/issues"
   },
-  "homepage": "https://github.com/romanizm/kerembot#readme",
+  "homepage": "https://github.com/lewischain/kerembot#readme",
   "devDependencies": {
     "better-sqlite3": "^9.1.1",
     "dotenv": "^16.3.1",
