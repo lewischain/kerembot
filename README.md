@@ -1,2 +1,2 @@
 # kerembot
-- auth bilmeyen sayigilarla - arda
+- auth bilmeyen kullanmasin sayigilarla - arda
